@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516070719574",
+    "project_id": "pember-361e9",
+    "storage_bucket": "pember-361e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516070719574:android:d9a54317e608ce783c3bf7",
+        "android_client_info": {
+          "package_name": "com.example.projekpember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516070719574-5pkat3v6jehalfdde468hts7vt38ju6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0lOEiUVtt0_XHPsE4VYQvNMpWO4eEMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516070719574-5pkat3v6jehalfdde468hts7vt38ju6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

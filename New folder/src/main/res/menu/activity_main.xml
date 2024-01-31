@@ -1,0 +1,14 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item  
+	     android:id="@+id/option_menu_search"  
+	     android:title="menu_search"
+	      android:icon="@android:drawable/ic_menu_search"
+		app:actionViewClass="android.widget.SearchView"
+		app:showAsAction="ifRoom|collapseActionView" />
+	   <item  
+	     android:id="@+id/option_menu_new"  
+	     android:title="menu_new"
+	      android:icon="@drawable/content_new_event"
+		   app:showAsAction="ifRoom|withText" />
+</menu>
